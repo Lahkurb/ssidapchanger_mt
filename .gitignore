@@ -1,0 +1,4 @@
+__py*
+config.ini
+!example_conf.ini
+*.txt
